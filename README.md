@@ -24,10 +24,37 @@
   
 ### STEP-6
   Open the file in a browser and verify the output.
-  
+```  
 ## CODE
-
-
+<html>
+<head>
+<title>Agricultural Search</title>
+</head>
+<body>
+<h1>Agricultural Search</h1>
+<h2>ploughing</h2>
+<a href="https://www.google.com/search?q=ploughing&rlz=1C1CHBF_enIN1022IN1022&oq=plough&aqs=chrome.1.69i57j0i67i433i650j0i433i512j0i512j0i433i512j0i512l2j0i433i512j0i512l2.20089j0j4&sourceid=chrome&ie=UTF-8#ip=1">
+<img src ="ploughing.jpeg" width ="500" height="200">
+</a>
+<h2>Sowing</h2> 
+<a href="https://www.google.com/search?q=sowing+seeds&source=lmns&bih=746&biw=1536&rlz=1C1CHBF_enIN1022IN1022&hl=en&sa=X&ved=2ahUKEwiOztqGwtT-AhWJ3XMBHRJbDmwQ_AUoAHoECAEQAA">
+<img src="sowing.webp" width="500" height="200">
+</a>
+<h2>Fertilizers</h2>
+<a href="https://www.google.com/search?q=fertilizer&rlz=1C1CHBF_enIN1022IN1022&oq=ferti&aqs=chrome.1.69i57j0i67i433i650j0i67i650l2j0i433i512j0i67i433i650j0i67i650j0i512j0i67i650j46i199i465i512.7744j0j4&sourceid=chrome&ie=UTF-8">
+<img src="fertilizers.webp" width="500" height="200">
+</a>
+<h2>Biofertilizers</h2>
+<a href="https://www.google.com/search?q=fertilizer&rlz=1C1CHBF_enIN1022IN1022&oq=ferti&aqs=chrome.1.69i57j0i67i433i650j0i67i650l2j0i433i512j0i67i433i650j0i67i650j0i512j0i67i650j46i199i465i512.7744j0j4&sourceid=chrome&ie=UTF-8">
+<img src="biofertilizer.jpg" width="500" height="200">
+</a>
+<h2>Horticulture</h2>
+<a href="https://www.google.com/search?q=horiculture&source=lmns&bih=746&biw=1536&rlz=1C1CHBF_enIN1022IN1022&hl=en&sa=X&ved=2ahUKEwiB3c-iy9T-AhWrzaACHWorA38Q_AUoAHoECAEQAA">
+<img src="horticulture.jpg" width="500" height="200">
+</a>
+</body>
+</html>
+```
 ## OUTPUT
 
 
