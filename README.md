@@ -58,6 +58,7 @@
 ## OUTPUT
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/127816726/235496253-d76dcda7-8225-413e-a520-bdb1a33f935a.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/127816726/235496360-27efef73-5523-42a5-a0e2-4cb5ac1e4dae.png)
 
 ## RESULT
  Images as hyperlinks is implemented successfully.
